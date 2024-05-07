@@ -1,46 +1,15 @@
-# Título do projeto
-
-Um simples resumo do uso/propósito do projeto.
-
+# Análise de telemarketing
+Uma exploração do sucesso dos contatos de telemarketing em clientes diversos. 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+O projeto tem como objetivo analisar os fatores mais comuns que levam um cliente a aceitar propostas nos contatos de telemarketing. Foram analisados dados de perfil como: idade, profissão, estado civil, escolaridade; bem como dados referentes ao contato, como: forma de contato, dia da semana, mês, entre outros. 
 
 ### Link para a aplicação
 https://telemarketing-f8bp.onrender.com/
 
-## Utilização
-
-### Dependencias
-
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-Luciana 
+Luciana N.
 https://www.linkedin.com/in/luciana-datasci/
 
 ## Histórico de versões.
@@ -48,18 +17,4 @@ https://www.linkedin.com/in/luciana-datasci/
 * 0.2
 	* Ajustes de diversos bugs e otimização
 * 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+    	* Primeira versão
